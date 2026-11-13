@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "tables": {
+    "sets": {
+      "file": "normal-sets.jsonl",
+      "sha256": "3629e3593bdfa1dda6a7f4e9f1461daa1930adc67626c263213a0f9b861ab20a",
+      "bytes": 113,
+      "rows": 2,
+      "fields": [
+        "id",
+        "keys",
+        "kind"
+      ]
+    },
+    "queries": {
+      "file": "normal-queries.jsonl",
+      "sha256": "a85b9943933365bb2761208ce390ff7709e6887818379700b00763870f9495eb",
+      "bytes": 73,
+      "rows": 1,
+      "fields": [
+        "id",
+        "set",
+        "filter",
+        "generation"
+      ]
+    },
+    "navigation": {
+      "file": "normal-navigation.jsonl",
+      "sha256": "cede4e718fb09bce3b083100f71787bd10e923958141d59f5f0f8db53977d219",
+      "bytes": 86,
+      "rows": 1,
+      "fields": [
+        "id",
+        "source_set",
+        "property",
+        "target_set"
+      ]
+    }
+  }
+}

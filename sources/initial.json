@@ -1,0 +1,28 @@
+{
+  "@odata.context": "https://catalog.invalid/odata/$metadata#Specimens",
+  "value": [
+    {
+      "@odata.id": "Specimens(1)",
+      "id": 1,
+      "active": true,
+      "assays": [
+        {
+          "@odata.id": "Assays(9)",
+          "id": 9
+        }
+      ]
+    },
+    {
+      "@odata.id": "Specimens(2)",
+      "id": 2,
+      "active": true,
+      "assays": [
+        {
+          "@odata.id": "Assays(9)",
+          "id": 9
+        }
+      ]
+    }
+  ],
+  "@odata.deltaLink": "https://catalog.invalid/odata/Specimens?$deltatoken=a"
+}

@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "files": [
+    {
+      "path": "sources/initial.json",
+      "bytes": 541,
+      "sha256": "421a4e495bb89e66e8ed0718cb75104acfc5ca83f31f03ae24e9d869991462d3"
+    },
+    {
+      "path": "sources/delta.json",
+      "bytes": 527,
+      "sha256": "bce338a27f6d0211cefb080fbeef2f0494352b01f2acfca0fb366a90577c96cc"
+    },
+    {
+      "path": "sources/expected-state.json",
+      "bytes": 226,
+      "sha256": "0d1970a0fe0fd70f4d8d7a34b472f71acd2486b56865142c7a88b0bd6e0166ba"
+    }
+  ]
+}

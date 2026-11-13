@@ -1,0 +1,18 @@
+{
+  "@odata.context": "https://catalog.invalid/odata/$metadata#Specimens/$delta",
+  "value": [
+    {
+      "@odata.id": "Specimens(1)",
+      "@removed": {
+        "reason": "changed"
+      }
+    },
+    {
+      "@odata.context": "https://catalog.invalid/odata/$metadata#$deletedLink",
+      "source": "https://catalog.invalid/odata/Specimens(2)",
+      "relationship": "assays",
+      "target": "https://catalog.invalid/odata/Assays(9)"
+    }
+  ],
+  "@odata.deltaLink": "https://catalog.invalid/odata/Specimens?$deltatoken=b"
+}

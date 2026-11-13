@@ -1,0 +1,17 @@
+{
+  "query_members": [
+    "Specimens(2)"
+  ],
+  "known_entities": [
+    "Specimens(1)",
+    "Specimens(2)",
+    "Assays(9)"
+  ],
+  "remaining_links": [
+    [
+      "Specimens(1)",
+      "assays",
+      "Assays(9)"
+    ]
+  ]
+}
